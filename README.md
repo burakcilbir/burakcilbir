@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Burak%20Cilbir&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%7C%20QA%20%26%20Test%20Automation&descAlignY=58&descSize=18" alt="Burak Cilbir" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Burak%20Cilbir&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20QA%20and%20Test%20Automation&descAlignY=58&descSize=18" alt="Burak Cilbir" />
 </p>
 
 <p align="center">
